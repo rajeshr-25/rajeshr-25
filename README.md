@@ -1,6 +1,6 @@
 # Hi 👋 I'm Rajesh
 
-💻 B.Sc Computer Science Graduate  
+💻 BCA Graduate  
 🚀 Passionate about Web Development and building real-world applications  
 
 ---
